@@ -160,6 +160,9 @@ class PerimeterXSolver {
     }
 }
 
+$uuid = "4adf2cec-fdd7-11ef-bf16-f7df5353e4c1"; // From signup X-PX-UUUID - generate randomly
+$vid = "0a9a2455-fdd1-11ef-a969-31cb7da65721";  // From signup X-PX-VID - default
+
 $solver = new PerimeterXSolver($uuid, $vid);
 $solverResult = $solver->solve();
 
