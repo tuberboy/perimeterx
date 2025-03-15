@@ -1,9 +1,8 @@
 # perimeterx
 PerimeterX - bypass - solve - decode - encode with web, android and ios solution
 
-## TODO
-error_reporting(0); // remove it to fix notices and bugs to work well
-
+## Demo
+Payload Decoder: [click here](https://tuberboy.com/px/)
 
 ### Solved PX example:
 ```
